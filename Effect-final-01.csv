@@ -1,0 +1,133 @@
+"","weatherPara","Site","equipNO","weatherE"
+"1","ALLWeather(Scaled)","Roy's Peak Track",100103998,0.733
+"2","ALLWeather(Scaled)","Cathedral Cove Track",100102439,0.348
+"3","ALLWeather(Scaled)","Truman Track",100101142,0.518
+"4","ALLWeather(Scaled)","Ruakuri Walkway",100087875,0.621
+"5","ALLWeather(Scaled)","Great Lake Trail, W2K Track",100087640,0.296
+"6","ALLWeather(Scaled)","Great Lake Trail, Kawakawa Bay",100087637,0.16
+"7","ALLWeather(Scaled)","Dolomite Point  Pancake Rocks",100084657,0.233
+"8","ALLWeather(Scaled)","Ben Lomond Walkway",100081556,0.42
+"9","ALLWeather(Scaled)","Lake Hayes Walkway",100081554,0.419
+"10","ALLWeather(Scaled)","Manaia Ridge Track",100073193,0.495
+"11","ALLWeather(Scaled)","Hooker Valley Track",100073154,0.882
+"12","ALLWeather(Scaled)","Bannockburn Loop Track",100064486,0.318
+"13","ALLWeather(Scaled)","Wharariki Beach Track",100063665,0.919
+"14","ALLWeather(Scaled)","Mangawhai Walkway",100057473,0.328
+"15","ALLWeather(Scaled)","Point Elizabeth Walkway",100057059,0.77
+"16","ALLWeather(Scaled)","Orongorongo Track",100056811,0.036
+"17","ALLWeather(Scaled)","Abel Tasman Coast Tk, Marahau",100055888,0.755
+"18","ALLWeather(Scaled)","Tongariro Xing Mangatepopo Tk",100055887,1
+"19","ALLWeather(Scaled)","Cape Fowlwind, Tauranga Bay",100055451,0.717
+"20","ALLWeather(Scaled)","Taranaki Falls Walk",100039886,0.968
+"21","ALLWeather(Scaled)","Arnold Bridge Walk (Moana)",100038809,0
+"22","ALLWeather(Scaled)","Tasman Glacier, Blue Lake Walk",100033465,0.434
+"23","ALLWeather","Roy's Peak Track",100103998,34.734286657064
+"24","ALLWeather","Cathedral Cove Track",100102439,26.6769402479431
+"25","ALLWeather","Truman Track",100101142,30.2439608192761
+"26","ALLWeather","Ruakuri Walkway",100087875,32.3860915570317
+"27","ALLWeather","Great Lake Trail, W2K Track",100087640,25.5867052075379
+"28","ALLWeather","Great Lake Trail, Kawakawa Bay",100087637,22.7524445486461
+"29","ALLWeather","Dolomite Point  Pancake Rocks",100084657,24.273138417689
+"30","ALLWeather","Ben Lomond Walkway",100081556,28.1922072173789
+"31","ALLWeather","Lake Hayes Walkway",100081554,28.1643868925864
+"32","ALLWeather","Manaia Ridge Track",100073193,29.7646525522048
+"33","ALLWeather","Hooker Valley Track",100073154,37.847561807772
+"34","ALLWeather","Bannockburn Loop Track",100064486,26.0665110968345
+"35","ALLWeather","Wharariki Beach Track",100063665,38.6213075770507
+"36","ALLWeather","Mangawhai Walkway",100057473,26.2609516533858
+"37","ALLWeather","Point Elizabeth Walkway",100057059,35.5167954469804
+"38","ALLWeather","Orongorongo Track",100056811,20.1478594112362
+"39","ALLWeather","Abel Tasman Coast Tk, Marahau",100055888,35.2027343925412
+"40","ALLWeather","Tongariro Xing Mangatepopo Tk",100055887,40.3209024322655
+"41","ALLWeather","Cape Fowlwind, Tauranga Bay",100055451,34.4103017594105
+"42","ALLWeather","Taranaki Falls Walk",100039886,39.6591569291658
+"43","ALLWeather","Arnold Bridge Walk (Moana)",100038809,19.4050593478638
+"44","ALLWeather","Tasman Glacier, Blue Lake Walk",100033465,28.4801416507074
+"45","Radiation","Roy's Peak Track",100103998,8.18900574051875
+"46","TemperatureMax","Roy's Peak Track",100103998,11.5644183734369
+"47","Rain","Roy's Peak Track",100103998,6.91374501695477
+"48","WindSpeed","Roy's Peak Track",100103998,8.06711752615362
+"49","Radiation","Cathedral Cove Track",100102439,7.36732884564081
+"50","TemperatureMax","Cathedral Cove Track",100102439,9.37681873387231
+"51","Rain","Cathedral Cove Track",100102439,7.50545072085517
+"52","WindSpeed","Cathedral Cove Track",100102439,2.42734194757483
+"53","Radiation","Truman Track",100101142,7.08453621619073
+"54","TemperatureMax","Truman Track",100101142,6.70467743359356
+"55","Rain","Truman Track",100101142,6.68414507386121
+"56","WindSpeed","Truman Track",100101142,9.77060209563056
+"57","Radiation","Ruakuri Walkway",100087875,8.94780937149572
+"58","TemperatureMax","Ruakuri Walkway",100087875,11.0550470514526
+"59","Rain","Ruakuri Walkway",100087875,6.92652436662833
+"60","WindSpeed","Ruakuri Walkway",100087875,5.45671076745507
+"61","Radiation","Great Lake Trail, W2K Track",100087640,3.97235992945512
+"62","TemperatureMax","Great Lake Trail, W2K Track",100087640,5.1971887975748
+"63","Rain","Great Lake Trail, W2K Track",100087640,11.8678942409038
+"64","WindSpeed","Great Lake Trail, W2K Track",100087640,4.54926223960415
+"65","Radiation","Great Lake Trail, Kawakawa Bay",100087637,3.94624258798702
+"66","TemperatureMax","Great Lake Trail, Kawakawa Bay",100087637,4.94985253740723
+"67","Rain","Great Lake Trail, Kawakawa Bay",100087637,12.426825421055
+"68","WindSpeed","Great Lake Trail, Kawakawa Bay",100087637,1.42952400219678
+"69","Radiation","Dolomite Point  Pancake Rocks",100084657,2.83028371819879
+"70","TemperatureMax","Dolomite Point  Pancake Rocks",100084657,10.1547765211742
+"71","Rain","Dolomite Point  Pancake Rocks",100084657,7.87566111676691
+"72","WindSpeed","Dolomite Point  Pancake Rocks",100084657,3.41241706154918
+"73","Radiation","Ben Lomond Walkway",100081556,3.77486810812489
+"74","TemperatureMax","Ben Lomond Walkway",100081556,7.56052150664476
+"75","Rain","Ben Lomond Walkway",100081556,6.1903920485512
+"76","WindSpeed","Ben Lomond Walkway",100081556,10.6664255540581
+"77","Radiation","Lake Hayes Walkway",100081554,2.89237580776281
+"78","TemperatureMax","Lake Hayes Walkway",100081554,11.4284488887102
+"79","Rain","Lake Hayes Walkway",100081554,10.4392400934599
+"80","WindSpeed","Lake Hayes Walkway",100081554,3.40432210265355
+"81","Radiation","Manaia Ridge Track",100073193,6.28183689351618
+"82","TemperatureMax","Manaia Ridge Track",100073193,11.4889911810146
+"83","Rain","Manaia Ridge Track",100073193,8.41074154011523
+"84","WindSpeed","Manaia Ridge Track",100073193,3.5830829375588
+"85","Radiation","Hooker Valley Track",100073154,14.427811658752
+"86","TemperatureMax","Hooker Valley Track",100073154,15.353239157727
+"87","Rain","Hooker Valley Track",100073154,4.65955776469134
+"88","WindSpeed","Hooker Valley Track",100073154,3.40695322660162
+"89","Radiation","Bannockburn Loop Track",100064486,4.93081583774172
+"90","TemperatureMax","Bannockburn Loop Track",100064486,5.37156544407384
+"91","Rain","Bannockburn Loop Track",100064486,10.9460594129476
+"92","WindSpeed","Bannockburn Loop Track",100064486,4.81807040207139
+"93","Radiation","Wharariki Beach Track",100063665,6.88426651260234
+"94","TemperatureMax","Wharariki Beach Track",100063665,13.8141968365613
+"95","Rain","Wharariki Beach Track",100063665,8.66855578062962
+"96","WindSpeed","Wharariki Beach Track",100063665,9.25428844725745
+"97","Radiation","Mangawhai Walkway",100057473,3.02890905160107
+"98","TemperatureMax","Mangawhai Walkway",100057473,8.08539877316942
+"99","Rain","Mangawhai Walkway",100057473,5.48906160086628
+"100","WindSpeed","Mangawhai Walkway",100057473,9.65758222774906
+"101","Radiation","Point Elizabeth Walkway",100057059,8.50176482512923
+"102","TemperatureMax","Point Elizabeth Walkway",100057059,7.78348774231357
+"103","Rain","Point Elizabeth Walkway",100057059,10.8579588006616
+"104","WindSpeed","Point Elizabeth Walkway",100057059,8.37358407887595
+"105","Radiation","Orongorongo Track",100056811,6.73390693840006
+"106","TemperatureMax","Orongorongo Track",100056811,3.64068371095067
+"107","Rain","Orongorongo Track",100056811,6.04522988749154
+"108","WindSpeed","Orongorongo Track",100056811,3.72803887439389
+"109","Radiation","Abel Tasman Coast Tk, Marahau",100055888,4.77765156054216
+"110","TemperatureMax","Abel Tasman Coast Tk, Marahau",100055888,15.5151351227244
+"111","Rain","Abel Tasman Coast Tk, Marahau",100055888,4.72836742942269
+"112","WindSpeed","Abel Tasman Coast Tk, Marahau",100055888,10.181580279852
+"113","Radiation","Tongariro Xing Mangatepopo Tk",100055887,6.49383921358846
+"114","TemperatureMax","Tongariro Xing Mangatepopo Tk",100055887,8.68580406712848
+"115","Rain","Tongariro Xing Mangatepopo Tk",100055887,10.9839956443608
+"116","WindSpeed","Tongariro Xing Mangatepopo Tk",100055887,14.1572635071877
+"117","Radiation","Cape Fowlwind, Tauranga Bay",100055451,11.8503619451232
+"118","TemperatureMax","Cape Fowlwind, Tauranga Bay",100055451,9.88061380798191
+"119","Rain","Cape Fowlwind, Tauranga Bay",100055451,8.21359663273986
+"120","WindSpeed","Cape Fowlwind, Tauranga Bay",100055451,4.46572937356556
+"121","Radiation","Taranaki Falls Walk",100039886,9.1244961860131
+"122","TemperatureMax","Taranaki Falls Walk",100039886,14.4235616984016
+"123","Rain","Taranaki Falls Walk",100039886,10.1888186660356
+"124","WindSpeed","Taranaki Falls Walk",100039886,5.92228037871546
+"125","Radiation","Arnold Bridge Walk (Moana)",100038809,3.66117018110219
+"126","TemperatureMax","Arnold Bridge Walk (Moana)",100038809,5.59984486371165
+"127","Rain","Arnold Bridge Walk (Moana)",100038809,5.51322131438934
+"128","WindSpeed","Arnold Bridge Walk (Moana)",100038809,4.63082298866066
+"129","Radiation","Tasman Glacier, Blue Lake Walk",100033465,3.27753309721408
+"130","TemperatureMax","Tasman Glacier, Blue Lake Walk",100033465,12.2895777177574
+"131","Rain","Tasman Glacier, Blue Lake Walk",100033465,7.04448909905486
+"132","WindSpeed","Tasman Glacier, Blue Lake Walk",100033465,5.86854173668096
